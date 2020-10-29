@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sarve-bhavantu-sukinah/static/css/main.f64f2f24.chunk.css",
-    "main.js": "/sarve-bhavantu-sukinah/static/js/main.91cb3707.chunk.js",
-    "main.js.map": "/sarve-bhavantu-sukinah/static/js/main.91cb3707.chunk.js.map",
-    "runtime-main.js": "/sarve-bhavantu-sukinah/static/js/runtime-main.43790724.js",
-    "runtime-main.js.map": "/sarve-bhavantu-sukinah/static/js/runtime-main.43790724.js.map",
-    "static/js/2.90dec6e7.chunk.js": "/sarve-bhavantu-sukinah/static/js/2.90dec6e7.chunk.js",
-    "static/js/2.90dec6e7.chunk.js.map": "/sarve-bhavantu-sukinah/static/js/2.90dec6e7.chunk.js.map",
-    "index.html": "/sarve-bhavantu-sukinah/index.html",
-    "static/css/main.f64f2f24.chunk.css.map": "/sarve-bhavantu-sukinah/static/css/main.f64f2f24.chunk.css.map",
-    "static/js/2.90dec6e7.chunk.js.LICENSE.txt": "/sarve-bhavantu-sukinah/static/js/2.90dec6e7.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.f64f2f24.chunk.css",
+    "main.js": "/static/js/main.b6c7000d.chunk.js",
+    "main.js.map": "/static/js/main.b6c7000d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b0270c46.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b0270c46.js.map",
+    "static/js/2.90dec6e7.chunk.js": "/static/js/2.90dec6e7.chunk.js",
+    "static/js/2.90dec6e7.chunk.js.map": "/static/js/2.90dec6e7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f64f2f24.chunk.css.map": "/static/css/main.f64f2f24.chunk.css.map",
+    "static/js/2.90dec6e7.chunk.js.LICENSE.txt": "/static/js/2.90dec6e7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.43790724.js",
+    "static/js/runtime-main.b0270c46.js",
     "static/js/2.90dec6e7.chunk.js",
     "static/css/main.f64f2f24.chunk.css",
-    "static/js/main.91cb3707.chunk.js"
+    "static/js/main.b6c7000d.chunk.js"
   ]
 }
